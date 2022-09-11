@@ -15,17 +15,17 @@
 ***
 ## Description
 
-This project [Web Design Landing Page]() was built using Semantic HTML and CSS. The main goal for building this webpage to apply my learning and make the webpage responsive for all major devices. In this project I learned about **linear-gradient** function on buttons and how to handle SVGs with the help of position property and other CSS properties. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
+This project [Web Design Landing Page](https://webdesign-page.netlify.app/) was built using Semantic HTML and CSS. The main goal for building this webpage to apply my learning and make the webpage responsive for all major devices. In this project I learned about **linear-gradient** function on buttons and how to handle SVGs with the help of position property and other CSS properties. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
 
 ***
 
 ### Links for Project
 
-* [LIVE Project Link]()
+* [LIVE Project Link](https://webdesign-page.netlify.app/)
 
-* [Youtube Video Demo]()
+* [Youtube Video Demo](https://youtu.be/YrUxVWubRU4)
 
-* [Source Code]()
+* [Source Code](https://github.com/ShubhamSingh03/Web-Design-Home-Page)
 
 ***
 ### Built With 
@@ -90,17 +90,16 @@ This project [Web Design Landing Page]() was built using Semantic HTML and CSS. 
 
 ### Checkout Portfolio & Other Projects
 
-#### [Personal Portfolio]()
+#### [Personal Portfolio](https://shubhambhoj.in/)
 
 
-#### [Findcoder Profile]()
+#### [Findcoder Profile](https://www.findcoder.io/u/shubham_singh)
 ***
 
 ### Connect with Me
 * [Mailto](mailto:shubhambhoj3@gmail.com)
-* [LinkedIn]()
-* [Github]()
-* [Findcoder]()
+* [LinkedIn](https://www.linkedin.com/in/shubham-singh-b122b7171/)
+* [Github](https://github.com/ShubhamSingh03)
 ***
 ***
 [go to top](#web-design-landing-page)
